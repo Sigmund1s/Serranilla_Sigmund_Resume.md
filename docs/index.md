@@ -16,15 +16,10 @@ Data Science Student - Brigham Young University Idaho
 
 ## Education
 
-`2020-2025`
-__Brigham Young University - Idaho
-
-- Full academic scholarship with 4.0 GPA
-
 `Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.6 Major GPA
 
 
 ## Related Experience
@@ -38,14 +33,14 @@ __Pacific Northwest National Lab__, Richland, WA
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Personal Projects
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`June 2021 - July 2021`
+__In-game image recognition__
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Developed a program that allows image for a game (League of Legends: Teamfight Tactics).
+- Used Python to build the image recognition model using Opencv.
+- Improved model development to over 95% accuracy. 
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
@@ -73,8 +68,8 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2021-2021`
+__Data Insight and Intuition Teacher Assistant__, BYU-I
 
 
 `2018-2020`
