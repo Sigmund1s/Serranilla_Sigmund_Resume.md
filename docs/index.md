@@ -6,7 +6,7 @@ title: Sigmund Serranilla's Resume
 Data Science Student - Brigham Young University Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="sigmundserranilla@gmail.com">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/sigmund-serranilla-5756051a5/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -47,6 +47,6 @@ __Service Missionary__, Philippines
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
 
 
