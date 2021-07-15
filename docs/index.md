@@ -7,7 +7,7 @@ Data Science Student - Brigham Young University Idaho
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/sigmund-serranilla-5756051a5/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/Sigmund1s">GitHub</a>
 </div>
 
 
